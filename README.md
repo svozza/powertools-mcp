@@ -83,7 +83,7 @@ If you select global scope, the MCP server configuration is stored in `~/.aws/am
 
 ### Getting Started with Kiro
 
-This is a test
+This is still a test
 
 <details>
 <summary>Use in Kiro</summary>
